@@ -1,0 +1,156 @@
+.header-section{
+    background-color: #f7cbd4;
+}
+.header-title{
+    margin-left: 290px;
+    padding-top: 140px;
+    padding-bottom: 100px;
+}
+
+h1{
+   font-size: 50px;
+}
+.header-img{
+    display: flex;
+    width:635px;
+    height:600px;
+    float: right;
+}
+.header-content{
+    display: flex;
+    gap: 200px;
+}
+.btn{
+    border-radius: 5px;
+    padding:13px 20px;
+    background-color: #E55473;
+    color: white;
+    border: none;
+}
+
+.section-title{
+    text-align: center;
+    margin: 94px;
+}
+.section-title1{
+    font-size: 40px;
+}
+.text-decoration{
+    text-decoration: underline;
+    display: flex;
+    gap: 240px;
+    margin-left: 540px;
+    margin-top: 30px;
+}
+
+.three-picture{
+    display: flex;
+    margin-left: 400px;
+    gap: 50px;
+}
+
+.background1{
+    background-color: #f7cbd4;
+    border-radius: 500px 500px 5px 5px;
+    width: 350px;
+    height: 500px;
+}
+.background2{
+    background-color: #aaeef1;
+    border-radius: 500px 500px 5px 5px;
+    width: 350px;
+    height: 500px;
+}
+.background3{
+    background-color: #b0e6b0;
+    border-radius: 500px 500px 5px 5px;
+    width: 350px;
+    height: 500px;
+}
+
+.pic1{
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.pic2{
+    padding-top: 60px;
+}
+
+.off{
+    color:#E55473;
+}
+.sign-up-section{
+    background-color: #f7cbd4;
+    display: flex;
+    gap: 300px;
+    margin-top: 94px ;
+    text-align: center;
+}
+.sign-up-text{
+    padding-left: 275px;
+    padding-top: 125px;
+}
+.sign-up-btn{
+    border-radius: 5px;
+    padding:13px 20px;
+    background-color: #E55473;
+    color: white;
+    border: none;
+}
+.flower{
+    display: flex;
+    gap: 30px;
+    margin-left: 175px;
+}
+.first-input{
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.btn3{
+    border-radius: 5px;
+    padding:13px 20px;
+    background-color: #E55473;
+    color: white;
+    border: none;
+}
+.first-form{
+    display: flex;
+    gap:30px;
+}
+
+.last-title4{
+    font-size: 25px;
+}
+
+.last-section{
+    background-image: url(Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    height: 300px;
+    width: 1500px;
+    border-radius: none;
+    margin-left: 190px;
+    padding-left: 400px;
+    padding-top: 100px;
+    gap: 0px;
+}
+
+.Subscription-section{
+        text-align: center;
+        padding-right: 950px;
+}
+
+.last-footer{
+    background-color: black;
+    color:white;
+    height: 250px;
+    text-align: center;
+    padding-top: 75px;
+    margin-top: 94px;
+}
+
+.flower-color{
+    color: #E55473;
+}
